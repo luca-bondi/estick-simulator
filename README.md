@@ -1,2 +1,2 @@
 # eStick Simulator 
-A testing tool to simulate the eStick for development purpose
+A testing tool to simulate up to four eSticks for development purpose
