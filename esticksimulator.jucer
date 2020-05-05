@@ -5,8 +5,9 @@
               pluginVST3Category="Spatial" pluginAAXCategory="512" pluginRTASCategory="512"
               pluginVSTCategory="kPlugCategSpacializer" pluginAUMainType="'aufx'"
               pluginDesc="eStick simulation tool" pluginManufacturer="Luca Bondi"
-              pluginManufacturerCode="Bond" pluginCode="esim" version="1" bundleIdentifier="it.polimi.deib.ispl.ebeamer"
-              companyWebsite="http://ispl.deib.polimi.it/" headerPath="..\..\ASIO\common">
+              pluginManufacturerCode="Bond" pluginCode="esim" version="1.0.0"
+              bundleIdentifier="it.polimi.deib.ispl.ebeamer" companyWebsite="http://ispl.deib.polimi.it/"
+              headerPath="..\..\ASIO\common">
   <MAINGROUP id="X7PQw9" name="eStick Simulator">
     <GROUP id="{3D6AD065-0387-5993-02F4-EFEE30370E91}" name="Eigen">
       <GROUP id="{AEBD6D17-0D9F-6422-FDAF-3B90144ABB2C}" name="src">

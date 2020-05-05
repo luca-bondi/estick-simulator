@@ -50,7 +50,7 @@ namespace ProjectInfo
 {
     const char* const  projectName    = "eStick Simulator";
     const char* const  companyName    = "Luca Bondi";
-    const char* const  versionString  = "1";
+    const char* const  versionString  = "1.0.0";
     const int          versionNumber  = 0x10000;
 }
 #endif
